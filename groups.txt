@@ -1,0 +1,69 @@
+[ГРУППА: СБП]
+Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion
+pipay / combo partners >> @Ren_BizDev
+CBC X AVEPAY tech >> @MaksymRUB_Ave_pay
+CBC X NEXTGEN | Интеграция >> @eg_ngen 
+CBC Paycos | Tech >> @Al8_KAM_Paycos 
+Tech | GTX - Combopartners >> @VEX_GTX 
+Sequoia | Combo | Tech >> @Payment_sequoiapay 
+Combopartners x Bova | Integration >> @BOVA_Accountant 
+ComboTech - TECH - IKRA >> @CavRoyale 
+Combotech | Pulsar | Tech >> @James_Pulsar 
+ComboTech x Paycrown | Tech >> @PayCrown_Van 
+Jelatto | CBC Finance >> @rrrinariii 
+ComboTech | Sarex | Tech >> @katana_Sarex_Account 
+Voidpay × Combotech (INT) >> @voidpay_Elijah 
+CryptoBoss x WilsonPay | Integration >> @gambl_destrudo 
+PS x Cryptobosscasino | Tech >> @PSAccount_Valentin 
+
+[ГРУППА: КАРТЫ]
+Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion
+CBC X AVEPAY tech >> @MaksymRUB_Ave_pay
+CBC X NEXTGEN | Интеграция >> @eg_ngen
+CBC Paycos | Tech >> @Al8_KAM_Paycos
+pipay / combo partners >> @Ren_BizDev
+Tech | GTX - Combopartners >> @VEX_GTX
+Sequoia | Combo | Tech >> @Payment_sequoiapay
+Combopartners x Bova | Integration >> @BOVA_Accountant
+ComboTech - TECH - IKRA >> @CavRoyale
+Combotech | Pulsar | Tech >> @James_Pulsar
+ComboTech x Paycrown | Tech >> @PayCrown_Van
+ComboTech | Sarex | Tech >> @katana_Sarex_Account 
+Voidpay × Combotech (INT) >> @voidpay_Elijah
+CryptoBoss x WilsonPay | Integration >> @gambl_destrudo
+PS x Cryptobosscasino | Tech >> @PSAccount_Valentin
+
+[ГРУППА: МК]
+Combopartners x Bova | Integration >> @BOVA_Accountant
+ComboTech - TECH - IKRA >> @CavRoyale
+pipay / combo partners >> @Ren_BizDev
+Voidpay × Combotech (INT) >> @voidpay_Elijah
+ComboTech | Sarex | Tech >> @katana_Sarex_Account
+Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion
+Jelatto | CBC Finance >> @rrrinariii
+CBC X NEXTGEN | Интеграция >> @eg_ngen
+Tech | GTX - Combopartners >> @VEX_GTX
+CBC X AVEPAY tech >> @MaksymRUB_Ave_pay
+IDM | Combotech | Tech >> @Idm_head_teamlead
+PS x Cryptobosscasino | Tech >> @PSAccount_Valentin
+Combotech | Pulsar | Tech >> @James_Pulsar
+CryptoBoss x WilsonPay | Integration >> @gambl_destrudo
+
+[ОБЩИЕ ШАБЛОНЫ]
+Коллеги, уточните, как с ликвидом по мк.
+---
+Коллеги, уточните, как с ликвидом по сбп
+---
+Коллеги, уточните, как с ликвидом по с2с
+---
+Коллеги, видим низкую выдачу по сбп методу. Проверьте пожалуйста
+---
+Коллеги, видим низкую выдачу по с2с методу. Проверьте пожалуйста
+---
+Коллеги, видим низкую выдачу по мк методу. Проверьте пожалуйста
+---
+Коллеги, видим неуспехи по сбп методу. Проверьте пожалуйста
+---
+Коллеги, видим неуспехи по с2с методу. Проверьте пожалуйста
+---
+Коллеги, видим неуспехи по мк методу. Проверьте пожалуйста
