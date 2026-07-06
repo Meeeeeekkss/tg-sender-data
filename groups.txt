@@ -1,8 +1,11 @@
 [ГРУППА: СБП]
+CBC X NEXTGEN | Интеграция >> @eg_ngen || NextGen
+CBC X AVEPAY tech >> @MaksymRUB_Ave_pay || AvePay
+BRP - Combopartners|Integration >> 
+
+
 Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion || Rosplat
-pipay / combo partners >> @Ren_BizDev || Pipay
-CBC X AVEPAY tech >> @MaksymRUB_Ave_pay
-CBC X NEXTGEN | Интеграция >> @eg_ngen 
+pipay / combo partners >> @Ren_BizDev || Pipay 
 CBC Paycos | Tech >> @Al8_KAM_Paycos 
 Tech | GTX - Combopartners >> @VEX_GTX 
 Sequoia | Combo | Tech >> @Payment_sequoiapay 
