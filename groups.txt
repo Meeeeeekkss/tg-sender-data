@@ -1,6 +1,6 @@
 [ГРУППА: СБП]
-Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion
-pipay / combo partners >> @Ren_BizDev
+Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion || Rosplat
+pipay / combo partners >> @Ren_BizDev || Pipay
 CBC X AVEPAY tech >> @MaksymRUB_Ave_pay
 CBC X NEXTGEN | Интеграция >> @eg_ngen 
 CBC Paycos | Tech >> @Al8_KAM_Paycos 
