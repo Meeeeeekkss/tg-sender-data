@@ -1,23 +1,26 @@
 [ГРУППА: СБП]
 CBC X NEXTGEN | Интеграция >> @eg_ngen || NextGen
 CBC X AVEPAY tech >> @MaksymRUB_Ave_pay || AvePay
-BRP - Combopartners|Integration >> 
-
-
+BRP - Combopartners|Integration >> @ofer888 @platinum_boss || BRP
+AR & CBC >> @arm_supportt @arm_support2 || ARmoney
+Tech | GTX - Combopartners >> @VEX_GTX || GTX
 Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion || Rosplat
-pipay / combo partners >> @Ren_BizDev || Pipay 
-CBC Paycos | Tech >> @Al8_KAM_Paycos 
-Tech | GTX - Combopartners >> @VEX_GTX 
-Sequoia | Combo | Tech >> @Payment_sequoiapay 
-Combopartners x Bova | Integration >> @BOVA_Accountant 
-ComboTech - TECH - IKRA >> @CavRoyale 
-Combotech | Pulsar | Tech >> @James_Pulsar 
-Jelatto | CBC Finance >> @rrrinariii 
+IDM | Combotech | Tech >> @Idm_head_teamlead || IDM
+CBC Paycos | Tech >> @Al8_KAM_Paycos || Paycos
+RF | ComboPartners >> @RothschildJR || Royal
+Combopartners x Bova | Integration >> @BOVA_Accountant || Bova
+Sequoia | Combo | Tech >> @Payment_sequoiapay || Sequoia
+OK x CBC | Tech >> @ok_kamila @ok_tam_siam || OkPay
+Combotech x PayZavr | Tech >> @maaaaaooooooo @leo_marvik || PayZavr
+Jelatto | CBC Finance >> @rrrinariii || Jelatto
+PS x Cryptobosscasino | Tech >> @PSAccount_Valentin || PayScrow
+CryptoBoss x WilsonPay | Integration >> @operation_manager_wp @gambl_destrudo || Wilson
 Voidpay × Combotech (INT) >> @voidpay_Elijah 
-CryptoBoss x WilsonPay | Integration >> @gambl_destrudo 
-PS x Cryptobosscasino | Tech >> @PSAccount_Valentin
-RF | ComboPartners >> @RothschildJR 
-
+ComboTech - TECH - IKRA >> @CavRoyale
+Combotech | Pulsar | Tech >> @James_Pulsar 
+[TECH] CryptoBoss x SecurePay >> @SecurePay_Head || SecurePay
+Xpay / CryptoBoss / Integration >> @manag_x @manag_e || XPay
+ 
 [ГРУППА: КАРТЫ]
 Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion
 CBC X AVEPAY tech >> @MaksymRUB_Ave_pay
