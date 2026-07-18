@@ -1,9 +1,84 @@
-[ГРУППА:СБП]
+[ГРУППА: СБП]
 CBC X NEXTGEN | Интеграция (NextGen) >> @eg_ngen
 CBC X AVEPAY tech (AvePay) >> @MaksymRUB_Ave_pay
-
-[ГРУППА:КАРТЫ]
+BRP - Combopartners|Integration (BRP) >> @ofer888 @platinum_boss
+AR & CBC (ARmoney) >> @arm_supportt @arm_support2 
+Tech | GTX - Combopartners (GTX) >> @VEX_GTX
+Combo | RosPlat | Tech (Rosplat) >> @RosPlat_Head_Of_Conversion
+IDM | Combotech | Tech (IDM) >> @Idm_head_teamlead
+CBC Paycos | Tech (Paycos) >> @Al8_KAM_Paycos
+RF | ComboPartners (Royal) >> @RothschildJR
 Combopartners x Bova | Integration (Bova) >> @BOVA_Accountant
+Sequoia | Combo | Tech (Sequoia) >> @Payment_sequoiapay
+OK x CBC | Tech (OkPay) >> @ok_kamila @ok_tam_siam
+Combotech x PayZavr | Tech (PayZavr) >> @maaaaaooooooo @leo_marvik
+Jelatto | CBC Finance (Jelatto) >> @rrrinariii
+PS x Cryptobosscasino | Tech (PayScrow) >> @PSAccount_Valentin
+CryptoBoss x WilsonPay | Integration (Wilson) >> @operation_manager_wp @gambl_destrudo
+Voidpay × Combotech (INT) (VoidPay) >> @voidpay_Elijah
+ComboTech - TECH - IKRA (Ikra) >> @CavRoyale
+Combotech | Pulsar | Tech (Pulsar) >> @James_Pulsar
+[TECH] CryptoBoss x SecurePay (SecurePay) >> @SecurePay_Head
+Xpay / CryptoBoss / Integration (XPay) >> @manag_x @manag_e
+ 
+[ГРУППА: КАРТЫ]
+Combopartners x Bova | Integration >> @BOVA_Accountant || Bova
+Jelatto | CBC Finance >> @rrrinariii || Jelatto
+CBC X NEXTGEN | Интеграция >> @eg_ngen || NextGen
+CBC X AVEPAY tech >> @MaksymRUB_Ave_pay || AvePay
+Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion || Rosplat
+CBC Paycos | Tech >> @Al8_KAM_Paycos || Paycos
+AR & CBC >> @arm_supportt @arm_support2 || ARmoney
+Sequoia | Combo | Tech >> @Payment_sequoiapay || Sequoia
+Tech | GTX - Combopartners >> @VEX_GTX || GTX
+.M pipay / combo partners >> @Ren_BizDev || Pipay
+IDM | Combotech | Tech >> @Idm_head_teamlead || IDM
+BRP - Combopartners|Integration >> @ofer888 @platinum_boss || BRP
+RF | ComboPartners >> @RothschildJR || Royal
+ComboTech - TECH - IKRA >> @CavRoyale || Ikra
+Voidpay × Combotech (INT) >> @voidpay_Elijah || VoidPay
+CryptoBoss x WilsonPay | Integration >> @operation_manager_wp @gambl_destrudo || Wilson
+[TECH] CryptoBoss x SecurePay >> @SecurePay_Head || SecurePay
+Combotech | Pulsar | Tech >> @James_Pulsar || Pulsar
+PS x Cryptobosscasino | Tech >> @PSAccount_Valentin || PayScrow
+
+[ГРУППА: МК]
+ComboTech - TECH - IKRA >> @CavRoyale || Ikra
+Combopartners x Bova | Integration >> @BOVA_Accountant || Bova
+Voidpay × Combotech (INT) >> @voidpay_Elijah || VoidPay
+Combo | RosPlat | Tech >> @RosPlat_Head_Of_Conversion || Rosplat
+.M pipay / combo partners >> @Ren_BizDev || Pipay
+RF | ComboPartners >> @RothschildJR || Royal
+PayRoll | ComboTech | TECH >> @samproc @PayRoll_Manager_One || PayRoll
+Combotech x PayZavr | Tech >> @maaaaaooooooo @leo_marvik || PayZavr
+Combo x Mercurio | Tech >> @IlyaMercurio || Mercurio
+Combotech | Pulsar | Tech >> @James_Pulsar || Pulsar
+IDM | Combotech | Tech >> @Idm_head_teamlead || IDM
+PS x Cryptobosscasino | Tech >> @PSAccount_Valentin || PayScrow
+CBC X NEXTGEN | Интеграция >> @eg_ngen || NextGen
+HighHelp x CryptoBoss - Integration >> @jenyahhpay || highHelp
+Jelatto | CBC Finance >> @rrrinariii || Jelatto
+.M pipay / combo partners >> @Ren_BizDev || Pipay
+Tech | GTX - Combopartners >> @VEX_GTX || GTX
+OK x CBC | Tech >> @ok_kamila @ok_tam_siam || OkPay
+Cryptoboss / SpinPay / Tech >> @SP_MainSupport || SpinPay
+[TECH] OnlyOnePays || CBC >> @OOP_Smanager || OnlyOnePays
+CBC x IronPay >> @Ironacademy || IronPay
+
+[ГРУППА: СБЕР]
+Cryptoboss / Hedge Hog Tech chat >> @Aiprocessin || Ежи
+OK x CBC | Tech >> @ok_kamila @ok_tam_siam || OkPay
+Combopartners x Bova | Integration >> @BOVA_Accountant || Bova
+BRP - Combopartners|Integration >> @ofer888 @platinum_boss || BRP
+
+[ГРУППА: Тпей]
+Cryptoboss / Hedge Hog Tech chat >> @Aiprocessin || Ежи
+CBC X NEXTGEN | Интеграция >> @eg_ngen || NextGen
+Combopartners x Bova | Integration >> @BOVA_Accountant || Bova
+AR & CBC >> @arm_supportt @arm_support2 || ARmoney
+BRP - Combopartners|Integration >> @ofer888 @platinum_boss || BRP
+OK x CBC | Tech >> @ok_kamila @ok_tam_siam || OkPay
+Raccoon | Combotech | Tech >> @Raccoon_payments || Raccoon
 
 [ОБЩИЕ ШАБЛОНЫ]
 Коллеги, уточните, как с ликвидом по мк.
